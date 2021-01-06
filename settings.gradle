@@ -1,0 +1,3 @@
+include ':rtf-parser'
+include ':app'
+rootProject.name = "RtfParser"
